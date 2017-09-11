@@ -15,4 +15,4 @@ This is one of My University Assignments About Cryptology.Feel Free to Contact m
   <li>Clone and recompile it</li>
    <li>or Download Binary Release and Run</li>
 </ul><br>
-<i>https://zerosecblog.wordpress.com/2017/04/04/aes-file-encryption-project/</i>
+ 
